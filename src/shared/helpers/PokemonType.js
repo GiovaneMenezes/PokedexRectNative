@@ -7,7 +7,7 @@ export const PokemonType = {
         pillColor: '#fc0d0b',
         primaryBackgroundColor: '#f8b80e',
     },
-    wather:{
+    water:{
         pillColor: '#08517b',
         primaryBackgroundColor: '#37aff6',
     },
@@ -27,7 +27,7 @@ export const PokemonType = {
         pillColor: '#621581',
         primaryBackgroundColor: '#ca72ec',
     },
-    eletric:{
+    electric:{
         pillColor: '#979203',
         primaryBackgroundColor: '#f7ff85',
     },
