@@ -7,7 +7,6 @@ import { LinearGradient } from 'expo-linear-gradient';
 
 const HomeScreenItem = (props) => {
     const { name, pokemonInfo } = props
-    const [loading, setLoading] = useState(false)
     const types = pokemonInfo?.types
 
     const backgroundColors = () => {
